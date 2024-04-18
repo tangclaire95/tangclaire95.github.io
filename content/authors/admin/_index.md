@@ -14,9 +14,9 @@ status:
 
 role: PhD student 
 
-organizations:
--name: University of Delaware
-  url: http://www.udel.edu/
+# organizations:
+# -name: University of Delaware
+  # url: http://www.udel.edu/
 
 bio: I am a fourth-year PhD student in the Department of Linguistics and Cognitive Science at University of Delaware, advised by Rebecca Tollan and Michael Wilson. Previously, I obtained my M.S. degree from the University of Pennsylvania, primarily working with Nelson Flores. I'm interested in using experimental methods to explore the cross-linguistic sentence processing. 
 
@@ -130,4 +130,5 @@ highlight_name: true
 ---
 
 # Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
 {style="text-align: justify;"}
