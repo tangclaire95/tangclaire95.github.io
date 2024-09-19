@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "working paper"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -29,6 +29,7 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
+  
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
