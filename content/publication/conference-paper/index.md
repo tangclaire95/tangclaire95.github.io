@@ -1,19 +1,20 @@
 ---
-title: 'An example conference paper'
+title: 'LSA2024'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Peter Nelson
+  - Rebecca Tollan
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-01-04T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,13 +26,14 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *The 2024 Linguistics Society of America (LSA) Annual Meeting*
+publication_short: In *LSA2024*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This study investigated the processing differences between subject relative clauses (SRCs) and object relative clauses (ORCs) in Mandarin Chinese. The presence of temporary parsing ambiguities in both types of clauses makes it challenging to isolate the effects of dependency resolution. To address this, a self-paced reading study was conducted, manipulating RC type (SRC vs. ORC) and the presence of a classifier that either mismatched or matched with the adjacent noun. The results showed that when the classifier mismatched, ORCs were processed faster than SRCs, indicating an object advantage. These findings highlight the role of linear distance in syntactic processing and offer insights into the Mandarin SRC/ORC asymmetry. 
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Effects of classifier (mis-)match on filler-gap dependencies in Mandarin
 
 tags: []
 
@@ -54,10 +56,10 @@ url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+ # focal_point: ''
+  # preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -70,9 +72,9 @@ projects:
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   E.g. `slides: "example"` references `content/slides/lsa2024slides/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: lsa2024slides
 ---
 
 {{% callout note %}}
