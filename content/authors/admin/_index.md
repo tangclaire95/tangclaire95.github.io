@@ -10,7 +10,7 @@ name_pronounciation: ''
 
 #status emoji
 status:
-  icon: 📚
+  icon: 🎓
 
 role: Ph.D. candidate 
 
@@ -18,12 +18,13 @@ role: Ph.D. candidate
 # -name: University of Delaware
   # url: http://www.udel.edu/
 
-bio: I am a Ph.D. candidate in the Department of Linguistics and Cognitive Science at University of Delaware, advised by Rebecca Tollan and Michael Wilson. Previously, I obtained my M.S. degree from the University of Pennsylvania, primarily working with Nelson Flores. I'm interested in using experimental methods and computatinal tools to explore the cross-linguistic sentence processing. 
+bio: I am a Ph.D. candidate in the Department of Linguistics and Cognitive Science at the University of Delaware, advised by Rebecca Tollan and Michael Wilson. Previously, I obtained my M.S. degree from the University of Pennsylvania, primarily working with Nelson Flores. I'm interested in using experimental methods and computational tools to explore the cross-linguistic syntactic phenomena. 
 
 interests: 
   - Psycholinguistics 
   - Sentence processing
   - Experimental Syntax
+  - Natural Language Processing (NLP)
   - Computational Linguistics
 
 # profiles: linkedin, x 
@@ -46,7 +47,7 @@ education:
     - course: Exchange, Linguistics
       institution: University of California, Berkeley
       year: 2016
-    - course: Exchange, English linguistics and literature
+    - course: Exchange, Linguistics and Model language studies
       institution: The Education University of Hong Kong
       year: 2016
 
@@ -90,7 +91,9 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
----
 
+
+---
+I am a Ph.D. candidate in the Department of Linguistics and Cognitive Science at the University of Delaware, advised by Rebecca Tollan and Michael Wilson. Previously, I obtained my M.S. degree from the University of Pennsylvania, primarily working with Nelson Flores. I'm interested in using experimental methods and computational tools to explore the cross-linguistic syntactic phenomena. 
 
 {style="text-align: justify;"}
