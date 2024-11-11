@@ -6,7 +6,7 @@ title: Xiaoyi Tang
 first_name: Xiaoyi
 last_name: Tang
 
-name_pronounciation: ''
+name_pronounciation: '汤潇奕'
 
 #status emoji
 status:
@@ -18,7 +18,7 @@ role: Ph.D. candidate
 # -name: University of Delaware
   # url: http://www.udel.edu/
 
-bio: I am a Ph.D. candidate in the Department of Linguistics and Cognitive Science at the University of Delaware, advised by Rebecca Tollan and Michael Wilson. Previously, I obtained my M.S. degree from the University of Pennsylvania, primarily working with Nelson Flores. I'm interested in using experimental methods and computational tools to explore the cross-linguistic syntactic phenomena. 
+bio: Hello! I am a Ph.D. candidate in the Department of Linguistics and Cognitive Science at the University of Delaware, advised by Rebecca Tollan and Michael Wilson. Previously, I obtained my M.S. degree from the University of Pennsylvania, primarily working with Nelson Flores. I'm interested in using experimental methods and computational tools to explore the cross-linguistic syntactic phenomena. 
 
 interests: 
   - Psycholinguistics 
