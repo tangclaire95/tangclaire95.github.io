@@ -85,7 +85,8 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    # link: uploads/resume.pdf
+    link: https://www.dropbox.com/scl/fi/d6ojsjwda6vblz0uo7grh/CV_Tang.pdf?rlkey=gvxdbgidb6ffva9y8r239a5f7&dl=0/
+    
 
 
 
