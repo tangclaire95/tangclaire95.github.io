@@ -211,6 +211,18 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  
+  - block: collection
+    id: Teaching
+    content:
+      title: Teaching Experiences
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  
   - block: markdown
     content:
       title: Gallery
@@ -219,17 +231,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  
-  - block: collection
-    id: Teaching
-    content:
-      title: Recent & Upcoming Teaching Experiences
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   
   - block: contact
     id: contact

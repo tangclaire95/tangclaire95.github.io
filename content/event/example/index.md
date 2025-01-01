@@ -23,7 +23,7 @@ date: '2020-08-28'
 #all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -65,24 +65,39 @@ image:
 
 **As a Teaching Assistant:** 
 University of Delaware (Department of Linguistics and Cognitive Science)
-LING101: Introduction to Linguistics (Fall 2020, Fall 2022)
-LING202: Science of Language (Spring 2023)
-CGSC170: Introduction to Cognitive Science (Spring 2021)
-LING353: Introduction to Speech and Hearing Science (Fall 2021, Spring 2022, Fall 2023) LING444: First Language Development (Spring 2024)
 
-**University of Delaware (Department of Psychology and Brain Sciences)**
+LING101: Introduction to Linguistics (Fall 2020, Fall 2022)
+
+LING202: Science of Language (Spring 2023)
+
+CGSC170: Introduction to Cognitive Science (Spring 2021)
+
+LING353: Introduction to Speech and Hearing Science (Fall 2021, Spring 2022, Fall 2023)
+
+LING444: First Language Development (Spring 2024)
+
+
+University of Delaware (Department of Psychology and Brain Sciences)
+
 PSYC344: Psychology of Language (Fall 2024)
 
-**University of Pennsylvania (Graduate School of Education)**
+University of Pennsylvania (Graduate School of Education)
+
 Beginner (A1–A2), Program of Practical English for Daily Living (PEDAL) (Spring 2019)
 
 **As a Primary Instructor**
+
 Philadelphia Senior Center
+
 ESL Classes (Fall 2019, Spring 2020)
 
 **As a Guest Lecturer**
+
 University of Delaware (Department of Linguistics and Cognitive Science) 
-CGSC697: Experimental Linguistics (Fall 2024).
+
+CGSC697: Experimental Linguistics (Fall 2024)
+
 Graduate seminar, instructor: Rebecca Tollan
+
 
 
