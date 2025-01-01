@@ -90,21 +90,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Teaching Assistant 
+          company: University of Delaware
+          company_url: 'https://www.udel.edu/'
+          company_logo: UDMonogramC
+          location: Newark, DE
+          date_start: '2020-08-28'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Courses include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * LING101: Introduction to Linguistics (Fall 2020, Fall 2022)
+              * LING202: Science of Language (Spring 2023)
+              * CGSC170: Introduction to Cognitive Science (Spring 2021)
+              * LING353: Introduction to Speech and Hearing Science (Fall 2021, Spring 2022, Fall 2023)
+              * LING444: First Language Development (Spring 2024)
+              * PSYC344: Psychology of Language (Fall 2024, Spring 2025)
+
         - title: Professor of Semiconductor Physics
-          company: University X
+          company: University of Pennsylvania
           company_url: ''
           company_logo: org-x
           location: California
