@@ -18,7 +18,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: "" 
+abstract: "The Production of American English by Heritage Speakers of Mandarin"
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -42,18 +42,18 @@ url_pdf: https://www.dropbox.com/scl/fi/nfu1ie3a9ckkt64rwfq19/2022Asianness_pape
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
- # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
- # focal_point: ""
- # preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+ preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
-#- internal-project
+projects: []
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
