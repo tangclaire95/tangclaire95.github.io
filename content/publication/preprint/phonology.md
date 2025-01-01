@@ -3,7 +3,8 @@ title: "The Production of American English by Heritage Speakers of Mandarin"
 authors:
 - admin
 
-date: "2022-12-07T00:00:00Z"
+
+date: "2022-12-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +19,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: "The Production of American English by Heritage Speakers of Mandarin"
+abstract: The Production of American English by Heritage Speakers of Mandarin
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,12 +33,12 @@ featured: false
 #- name: Custom Link
 #  url: http://example.org
   
-url_pdf: https://www.dropbox.com/scl/fi/nfu1ie3a9ckkt64rwfq19/2022Asianness_paper.pdf?rlkey=hduljd55lpj2y1sjq29lgthsm&dl=0 
+url_pdf: https://www.dropbox.com/scl/fi/nfu1ie3a9ckkt64rwfq19/2022Asianness_paper.pdf?rlkey=hduljd55lpj2y1sjq29lgthsm&dl=0
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: ''
+#url_slides: https://www.dropbox.com/scl/fi/fapy2n1baykkadvuf63x3/QP2_slides.pdf?rlkey=2qf8bnhz7jqc5njb3tjzlhpod&dl=0
 #url_source: '#'
 #url_video: '#'
 
@@ -45,15 +47,16 @@ url_pdf: https://www.dropbox.com/scl/fi/nfu1ie3a9ckkt64rwfq19/2022Asianness_pape
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
- preview_only: false
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
 
+#projects:
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -62,5 +65,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 
 #slides: example
+
 ---
 
