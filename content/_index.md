@@ -93,7 +93,7 @@ sections:
         - title: Teaching Assistant 
           company: University of Delaware
           company_url: 'https://www.udel.edu/'
-          company_logo: UDMonogramC
+          #company_logo: UDMonogramC
           location: Newark, DE
           date_start: '2020-08-28'
           date_end: ''
@@ -110,7 +110,7 @@ sections:
         - title: Professor of Semiconductor Physics
           company: University of Pennsylvania
           company_url: ''
-          company_logo: org-x
+          #company_logo: 
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
