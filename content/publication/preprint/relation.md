@@ -2,6 +2,7 @@
 title: "Do Visual Relations Change Sensitivity to Object Shape?: Mandarin Classifiers as a Window into the Geometric Representations of Objects"
 authors:
 - admin
+- Alon Hafri
 
 date: "2023-12-20T00:00:00Z"
 doi: ""
@@ -36,7 +37,7 @@ url_pdf: https://www.dropbox.com/scl/fi/ns2ogbwbibaddlzh1avgm/QP2_Tang.pdf?rlkey
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: ''
+url_slides: https://www.dropbox.com/scl/fi/fapy2n1baykkadvuf63x3/QP2_slides.pdf?rlkey=2qf8bnhz7jqc5njb3tjzlhpod&dl=0
 #url_source: '#'
 #url_video: '#'
 

@@ -113,6 +113,8 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+  
+  
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -219,20 +221,16 @@ sections:
       columns: '1'
   
   - block: collection
-    id: talks
+    id: Teaching
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Teaching Experiences
       filters:
         folders:
           - event
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  
   - block: contact
     id: contact
     content:
