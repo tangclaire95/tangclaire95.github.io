@@ -8,7 +8,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024-11-01T00:00:00Z"
+date: "2024-11-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal  1*(1)"
+publication: "*Journal 1*(1)"
 publication_short: ""
 
 abstract: upcoming

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The Production of American English by Heritage Speakers of Mandarin"
 authors:
 - admin
 
@@ -52,8 +52,8 @@ url_pdf: https://www.dropbox.com/scl/fi/nfu1ie3a9ckkt64rwfq19/2022Asianness_pape
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+#projects:
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
